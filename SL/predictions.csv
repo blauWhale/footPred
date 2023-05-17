@@ -1,46 +1,6 @@
-Datum,Heim,Auswärts,Punkte Heim,Punkte Auswärts
-15.04.2023,Servette FC,Lugano,1,1
-15.04.2023,Luzern,Zurich,1,1
-16.04.2023,St. Gallen,FC Winterthur,3,0
-16.04.2023,Grasshopper,Sion,1,1
-16.04.2023,Basel,Young Boys,1,1
-22.04.2023,FC Winterthur,Grasshopper,3,0
-22.04.2023,Young Boys,Servette FC,3,0
-23.04.2023,Basel,Luzern,1,1
-23.04.2023,Zurich,St. Gallen,3,0
-23.04.2023,Lugano,Sion,0,3
-25.04.2023,Grasshopper,Young Boys,3,0
-26.04.2023,St. Gallen,Lugano,1,1
-26.04.2023,Servette FC,Zurich,3,0
-27.04.2023,Sion,Basel,1,1
-27.04.2023,Luzern,FC Winterthur,1,1
-29.04.2023,Servette FC,St. Gallen,3,0
-29.04.2023,Lugano,Grasshopper,3,0
-30.04.2023,Zurich,Sion,0,3
-30.04.2023,Young Boys,Luzern,3,0
-30.04.2023,FC Winterthur,Basel,1,1
-06.05.2023,Sion,FC Winterthur,0,3
-06.05.2023,St. Gallen,Young Boys,3,0
-07.05.2023,Luzern,Lugano,3,0
-07.05.2023,Grasshopper,Servette FC,0,3
-07.05.2023,Basel,Zurich,1,1
-13.05.2023,St. Gallen,Basel,1,1
-13.05.2023,Servette FC,Sion,1,1
-14.05.2023,Young Boys,Zurich,3,0
-14.05.2023,Lugano,FC Winterthur,3,0
-14.05.2023,Grasshopper,Luzern,0,3
-20.05.2023,FC Winterthur,Servette FC,1,1
-20.05.2023,Luzern,St. Gallen,1,1
-21.05.2023,Sion,Young Boys,0,3
-21.05.2023,Basel,Lugano,1,1
-21.05.2023,Zurich,Grasshopper,1,1
-25.05.2023,Sion,Luzern,3,0
-25.05.2023,Servette FC,Basel,1,1
-25.05.2023,Grasshopper,St. Gallen,3,0
-25.05.2023,Lugano,Young Boys,1,1
-25.05.2023,FC Winterthur,Zurich,1,1
-29.05.2023,Young Boys,FC Winterthur,3,0
-29.05.2023,Basel,Grasshopper,3,0
-29.05.2023,St. Gallen,Sion,1,1
-29.05.2023,Zurich,Lugano,0,3
-29.05.2023,Luzern,Servette FC,1,1
+Datum,Heim,Auswärts,Heimgewinn Chance,Auswärtsgewinn Chance,Unentschieden Chance
+2023-05-20,FC Winterthur,Servette FC,0.1525562,0.6033458,0.3303183
+2023-05-20,Luzern,St. Gallen,0.74240476,0.21715447,0.13284604
+2023-05-21,Sion,Young Boys,0.05417557,0.8760245,0.15899715
+2023-05-21,Basel,Lugano,0.115176894,0.6026706,0.31997094
+2023-05-21,Zürich,Grasshopper,0.17707857,0.4641467,0.20868237

@@ -20,8 +20,8 @@ def preprocess_data(data):
 
 
 def train_model(X_train, y_train):
-    # clf = RandomForestClassifier(n_estimators=100, random_state=42)
-    clf = xgb.XGBClassifier(random_state=42)
+    clf = RandomForestClassifier(n_estimators=100, random_state=42)
+    # clf = xgb.XGBClassifier(random_state=42)
     clf.fit(X_train, y_train)
     return clf
 
@@ -91,7 +91,7 @@ def main():
     model = train_model(X_train, y_train)
 
     # Step 5: Use the model to predict outcomes in lastGames.csv
-    last_games = pd.read_csv('SL/lastGames.csv')
+    last_games = pd.read_csv('SL/nextGames.csv')
     last_games['Heim'] = last_games['Heim'].str.replace('Zürich', 'Zurich')
     last_games['Auswärts'] = last_games['Auswärts'].str.replace('Zürich', 'Zurich')
 
