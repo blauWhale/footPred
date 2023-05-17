@@ -35,9 +35,28 @@ X_pred = pd.get_dummies(next_games[['Heim', 'Auswärts']]).reindex(columns=X_tra
 # Predict the probabilities for each class label
 y_pred_proba = clf.predict_proba(X_pred)
 
+# Normalize the probabilities
+y_pred_proba_normalized = y_pred_proba / y_pred_proba.sum(axis=1, keepdims=True)
+
 # Assign chance percentages to the columns
-next_games[['Heimgewinn Chance', 'Auswärtsgewinn Chance', 'Unentschieden Chance']] = y_pred_proba
+next_games[['Heimgewinn Chance', 'Auswärtsgewinn Chance', 'Unentschieden Chance']] = y_pred_proba_normalized
 
 # Drop unnecessary columns and save the results to a CSV file
 next_games.drop(['Wo', 'Tag', 'Uhrzeit', 'Ergebnis', 'Zuschauerzahl', 'Spielort', 'Schiedsrichter', 'Spielbericht', 'Hinweise'], axis=1, inplace=True)
 next_games.to_csv('predictions.csv', index=False)
+
+# Read the predictions CSV file
+predictions = pd.read_csv('predictions.csv')
+
+# Drop the 'Datum' column
+predictions.drop('Datum', axis=1, inplace=True)
+
+# Combine 'Heim' and 'Auswärts' into 'Spiel' column
+predictions['Spiel'] = predictions['Heim'] + ' vs ' + predictions['Auswärts']
+
+# Reorder the columns
+predictions = predictions[['Spiel', 'Heimgewinn Chance','Unentschieden Chance','Auswärtsgewinn Chance']]
+
+# Save the formatted predictions to a new CSV file
+predictions.to_csv('prediction_formatted.csv', index=False)
+
