@@ -15,6 +15,8 @@ df['Unentschieden'] = df['Ergebnis'].apply(lambda x: int(x[0] == x[1]))
 df['Heim'] = df['Heim'].astype('category')
 df['Auswärts'] = df['Auswärts'].astype('category')
 
+
+
 # Step 3: Split the data into training and testing sets
 X = pd.get_dummies(df[['Heim', 'Auswärts']])
 y = df[['Heimgewinn', 'Auswärtsgewinn', 'Unentschieden']]
