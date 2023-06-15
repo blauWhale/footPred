@@ -1,4 +1,4 @@
-Runde,Wo,Tag,Datum,Uhrzeit,Heim,xG,Ergebnis,xG,Auswärts,Zuschauerzahl,Spielort,Schiedsrichter,Spielbericht,Hinweise
+Round,Wk,Day,Date,Time,Home,xG,Score,xG.1,Away,Attendance,Venue,Referee,Match Report,Notes
 Group stage,1,Thu,2022-09-08,18:45,Malmö se,0.6,0–2,1.8,pt Braga,13721,Eleda Stadion,Duje Strukan,Match Report,
 Group stage,1,Thu,2022-09-08,18:45,Union Berlin de,0.5,0–1,0.8,be Union SG,21512,Stadion An der Alten Försterei,Serhiy Boiko,Match Report,
 Group stage,1,Thu,2022-09-08,18:45,Zürich ch,1.2,1–2,2.3,eng Arsenal,17070,Kybunpark,Mohammed Al Hakim,Match Report,
@@ -15,6 +15,7 @@ Group stage,1,Thu,2022-09-08,21:00,Red Star rs,1.0,0–1,1.5,fr Monaco,40226,Sta
 Group stage,1,Thu,2022-09-08,21:00,Lazio it,2.7,4–2,2.6,nl Feyenoord,22763,Stadio Olimpico,Ricardo de Burgos,Match Report,
 Group stage,1,Thu,2022-09-08,21:00,Nantes fr,1.2,2–1,0.3,gr Olympiacos,31276,Stade de la Beaujoire - Louis Fonteneau,Harald Lechner,Match Report,
 Group stage,1,Thu,2022-09-08,22:00,AC Omonia cy,0.5,0–3,1.6,md Sheriff Tiraspol,11271,Neo GSP,Rade Obrenović,Match Report,
+,,,,,,,,,,,,,,
 Group stage,2,Thu,2022-09-15,18:45,Real Sociedad es,1.1,2–1,0.2,cy AC Omonia,28587,Reale Arena,Kristo Tohver,Match Report,
 Group stage,2,Thu,2022-09-15,18:45,Midtjylland dk,2.6,5–1,1.2,it Lazio,9052,MCH Arena,Nikola Dabanović,Match Report,
 Group stage,2,Thu,2022-09-15,18:45,Feyenoord nl,1.4,6–0,0.3,at Sturm Graz,30025,Stadion Feijenoord,Jérôme Brisard,Match Report,
@@ -30,6 +31,7 @@ Group stage,2,Thu,2022-09-15,21:00,Dynamo Kyiv ua,0.6,0–1,0.4,cy AÉK Lárnaka
 Group stage,2,Thu,2022-09-15,21:00,Roma it,2.8,3–0,0.4,fi HJK,60193,Stadio Olimpico,Radu Petrescu,Match Report,
 Group stage,2,Thu,2022-09-15,21:00,Bodø/Glimt no,1.8,2–1,0.9,ch Zürich,8000,Aspmyra Stadion,Stéphanie Frappart,Match Report,
 Group stage,2,Thu,2022-09-15,21:00,Betis es,1.0,3–2,0.8,bg Ludogorets,43113,Estadio Benito Villamarín,Andris Treimanis,Match Report,
+,,,,,,,,,,,,,,
 Group stage,3,Thu,2022-10-06,18:45,Zürich ch,1.3,1–5,1.4,nl PSV Eindhoven,10626,Stadion Letzigrund,William Collum,Match Report,
 Group stage,3,Thu,2022-10-06,18:45,Malmö se,0.7,0–1,1.4,de Union Berlin,16057,Eleda Stadion,Halil Umut Meler,Match Report,
 Group stage,3,Thu,2022-10-06,18:45,Monaco fr,3.3,3–1,0.4,tr Trabzonspor,5050,Stade Louis II.,Giorgi Kruashvili,Match Report,
@@ -46,6 +48,7 @@ Group stage,3,Thu,2022-10-06,21:00,Midtjylland dk,1.2,2–2,1.2,nl Feyenoord,904
 Group stage,3,Thu,2022-10-06,21:00,Rennes fr,1.6,2–1,0.9,ua Dynamo Kyiv,24761,Roazhon Park,José Sánchez,Match Report,
 Group stage,3,Thu,2022-10-06,22:00,Olympiacos gr,1.2,0–3,2.3,az Qarabağ Ağdam,21677,Stadio Georgios Karaiskáki,Irfan Peljto,Match Report,
 Group stage,3,Thu,2022-10-06,22:00,Fenerbahçe tr,2.0,2–0,0.5,cy AÉK Lárnaka,38860,Ülker Stadyumu Fenerbahçe Şükrü Saracoğl...,Chris Kavanagh,Match Report,
+,,,,,,,,,,,,,,
 Group stage,4,Thu,2022-10-13,18:45,Union SG be,1.0,3–3,1.8,pt Braga,7851,King Power at Den Dreef Stadion,Aghayev Aliyev,Match Report,
 Group stage,4,Thu,2022-10-13,18:45,Bodø/Glimt no,0.5,0–1,0.7,eng Arsenal,7922,Aspmyra Stadion,Irfan Peljto,Match Report,
 Group stage,4,Thu,2022-10-13,18:45,Nantes fr,1.0,0–4,1.8,de Freiburg,31845,Stade de la Beaujoire - Louis Fonteneau,Horațiu Fesnic,Match Report,
@@ -62,7 +65,9 @@ Group stage,4,Thu,2022-10-13,21:00,Ferencváros hu,2.1,2–1,1.7,rs Red Star,206
 Group stage,4,Thu,2022-10-13,21:00,Lazio it,1.9,2–2,1.3,at Sturm Graz,21059,Stadio Olimpico,Sascha Stegemann,Match Report,
 Group stage,4,Thu,2022-10-13,22:00,Ludogorets bg,1.4,2–0,0.6,fi HJK,4623,Huvepharma Arena,Kristo Tohver,Match Report,
 Group stage,4,Thu,2022-10-13,22:00,Trabzonspor tr,0.9,4–0,1.1,fr Monaco,24343,Şenol Güneş Stadyumu,Jakob Kehlet,Match Report,
+,,,,,,,,,,,,,,
 Group stage,2,Thu,2022-10-20,18:00,Arsenal eng,2.7,1–0,0.3,nl PSV Eindhoven,52200,Arsenal Stadium,Alejandro Hernández,Match Report,
+,,,,,,,,,,,,,,
 Group stage,5,Thu,2022-10-27,18:45,Lazio it,1.3,2–1,0.4,dk Midtjylland,17756,Stadio Olimpico,Daniel Stefański,Match Report,
 Group stage,5,Thu,2022-10-27,18:45,Union Berlin de,1.5,1–0,0.2,pt Braga,21082,Stadion An der Alten Försterei,Craig Pawson,Match Report,
 Group stage,5,Thu,2022-10-27,18:45,PSV Eindhoven nl,0.8,2–0,1.4,eng Arsenal,35000,Philips Stadion,Marco Di Bello,Match Report,
@@ -79,6 +84,7 @@ Group stage,5,Thu,2022-10-27,21:00,Ferencváros hu,0.8,1–1,1.1,fr Monaco,20517
 Group stage,5,Thu,2022-10-27,21:00,Nantes fr,1.2,2–1,2.3,az Qarabağ Ağdam,30927,Stade de la Beaujoire - Louis Fonteneau,Jakob Kehlet,Match Report,
 Group stage,5,Thu,2022-10-27,22:00,AC Omonia cy,0.3,0–2,1.3,es Real Sociedad,11780,Neo GSP,Tamás Bognár,Match Report,
 Group stage,5,Thu,2022-10-27,22:00,HJK fi,0.5,1–2,1.8,it Roma,9751,Bolt Arena,Tiago Martins,Match Report,
+,,,,,,,,,,,,,,
 Group stage,6,Thu,2022-11-03,18:45,Midtjylland dk,1.2,2–0,0.8,at Sturm Graz,9134,MCH Arena,Matej Jug,Match Report,
 Group stage,6,Thu,2022-11-03,18:45,Real Sociedad es,1.1,0–1,0.7,eng Manchester Utd,36744,Reale Arena,Georgi Kabakov,Match Report,
 Group stage,6,Thu,2022-11-03,18:45,Feyenoord nl,1.1,1–0,0.7,it Lazio,43268,Stadion Feijenoord,Irfan Peljto,Match Report,
@@ -95,6 +101,7 @@ Group stage,6,Thu,2022-11-03,21:00,Roma it,3.2,3–1,0.5,bg Ludogorets,60807,Sta
 Group stage,6,Thu,2022-11-03,21:00,Union SG be,0.3,0–1,0.7,de Union Berlin,5597,King Power at Den Dreef Stadion,Andris Treimanis,Match Report,
 Group stage,6,Thu,2022-11-03,21:00,Betis es,2.8,3–0,0.6,fi HJK,35384,Estadio Benito Villamarín,William Collum,Match Report,
 Group stage,6,Thu,2022-11-03,21:45,Qarabağ Ağdam az,1.0,1–1,1.1,de Freiburg,30430,Tofiq Bəhramov adına Respublika stadionu,Alekseiy Kovalev,Match Report,
+,,,,,,,,,,,,,,
 Knockout round play-offs,,Thu,2023-02-16,18:45,Ajax nl,0.4,0–0,0.8,de Union Berlin,54322,Johan Cruyff ArenA,Halil Umut Meler,Match Report,Leg 1 of 2
 Knockout round play-offs,,Thu,2023-02-16,18:45,Barcelona es,1.0,2–2,2.1,eng Manchester Utd,90225,Camp Nou,Maurizio Mariani,Match Report,Leg 1 of 2
 Knockout round play-offs,,Thu,2023-02-16,18:45,RB Salzburg at,0.8,1–0,1.8,it Roma,29520,Red Bull Arena,Dennis Higler,Match Report,Leg 1 of 2
@@ -104,12 +111,12 @@ Knockout round play-offs,,Thu,2023-02-16,21:00,Juventus it,1.4,1–1,0.5,fr Nant
 Knockout round play-offs,,Thu,2023-02-16,21:00,Leverkusen de,1.8,2–3,0.7,fr Monaco,27864,BayArena,Orel Grinfeeld,Match Report,Leg 1 of 2
 Knockout round play-offs,,Thu,2023-02-16,21:00,Sevilla es,0.8,3–0,0.9,nl PSV Eindhoven,29593,Estadio Ramón Sánchez Pizjuán,Radu Petrescu,Match Report,Leg 1 of 2
 Knockout round play-offs,,Thu,2023-02-23,18:45,Midtjylland dk,0.4,0–4,1.9,pt Sporting CP,9576,MCH Arena,Ivan Kružliak,Match Report,Leg 2 of 2; Sporting CP won
-Knockout round play-offs,,Thu,2023-02-23,18:45,Monaco fr,1.9,2–3,2.3,de Leverkusen,8504,Stade Louis II.,Alejandro Hernández,Match Report,Leg 2 of 2; Leverkusen won; Leverkusen won on penalty kicks following extra time
+Knockout round play-offs,,Thu,2023-02-23,18:45,Monaco fr,1.9,(3) 2–3 (5),2.3,de Leverkusen,8504,Stade Louis II.,Alejandro Hernández,Match Report,Leg 2 of 2; Leverkusen won; Leverkusen won on penalty kicks following extra time
 Knockout round play-offs,,Thu,2023-02-23,18:45,PSV Eindhoven nl,1.7,2–0,0.7,es Sevilla,34000,Philips Stadion,Daniele Orsato,Match Report,Leg 2 of 2; Sevilla won
 Knockout round play-offs,,Thu,2023-02-23,18:45,Nantes fr,0.6,0–3,3.1,it Juventus,44000,Stade de la Beaujoire - Louis Fonteneau,Jose Maria,Match Report,Leg 2 of 2; Juventus won
 Knockout round play-offs,,Thu,2023-02-23,20:00,Manchester Utd eng,1.1,2–1,1.2,es Barcelona,73021,Old Trafford,Clément Turpin,Match Report,Leg 2 of 2; Manchester Utd won
 Knockout round play-offs,,Thu,2023-02-23,21:00,Roma it,1.9,2–0,1.3,at RB Salzburg,62593,Stadio Olimpico,Slavko Vinčič,Match Report,Leg 2 of 2; Roma won
-Knockout round play-offs,,Thu,2023-02-23,21:00,Rennes fr,2.4,2–1,0.5,ua Shakhtar,27781,Roazhon Park,Tobias Stieler,Match Report,Leg 2 of 2; Shakhtar won; Shakhtar won on penalty kicks following extra time
+Knockout round play-offs,,Thu,2023-02-23,21:00,Rennes fr,2.4,(4) 2–1 (5),0.5,ua Shakhtar,27781,Roazhon Park,Tobias Stieler,Match Report,Leg 2 of 2; Shakhtar won; Shakhtar won on penalty kicks following extra time
 Knockout round play-offs,,Thu,2023-02-23,21:00,Union Berlin de,1.7,3–1,1.9,nl Ajax,21800,Stadion An der Alten Försterei,Ricardo de Burgos,Match Report,Leg 2 of 2; Union Berlin won
 Round of 16,,Thu,2023-03-09,17:45,Sporting CP pt,2.2,2–2,2.0,eng Arsenal,36006,Estádio José Alvalade,Tobias Stieler,Match Report,Leg 1 of 2
 Round of 16,,Thu,2023-03-09,18:45,Roma it,1.9,2–0,0.8,es Real Sociedad,61608,Stadio Olimpico,Sandro Schärer,Match Report,Leg 1 of 2
@@ -120,9 +127,10 @@ Round of 16,,Thu,2023-03-09,21:00,Sevilla es,0.7,2–0,1.1,tr Fenerbahçe,24480,
 Round of 16,,Thu,2023-03-09,21:00,Juventus it,2.0,1–0,0.0,de Freiburg,37474,Allianz Stadium,Anastasios Sidiropoulos,Match Report,Leg 1 of 2
 Round of 16,,Thu,2023-03-09,22:00,Shakhtar ua,0.3,1–1,2.0,nl Feyenoord,17423,Stadion Miejski Legii Warszawa im. Marsz...,Ivan Kružliak,Match Report,Leg 1 of 2
 Round of 16,,Thu,2023-03-16,18:45,Feyenoord nl,1.6,7–1,0.5,ua Shakhtar,37500,Stadion Feijenoord,Jesús Gil,Match Report,Leg 2 of 2; Feyenoord won
+Round,Wk,Day,Date,Time,Home,xG,Score,xG,Away,Attendance,Venue,Referee,Match Report,Notes
 Round of 16,,Thu,2023-03-16,18:45,Betis es,1.2,0–1,1.9,eng Manchester Utd,54643,Estadio Benito Villamarín,Srđan Jovanović,Match Report,Leg 2 of 2; Manchester Utd won
 Round of 16,,Thu,2023-03-16,18:45,Freiburg de,0.8,0–2,1.8,it Juventus,33420,Europa-Park Stadion,Serdar Gözübüyük,Match Report,Leg 2 of 2; Juventus won
-Round of 16,,Thu,2023-03-16,20:00,Arsenal eng,1.6,1–1,1.3,pt Sporting CP,59929,Emirates Stadium,Antonio Matéu,Match Report,Leg 2 of 2; Sporting CP won; Sporting CP won on penalty kicks following extra time
+Round of 16,,Thu,2023-03-16,20:00,Arsenal eng,1.6,(3) 1–1 (5),1.3,pt Sporting CP,59929,Emirates Stadium,Antonio Matéu,Match Report,Leg 2 of 2; Sporting CP won; Sporting CP won on penalty kicks following extra time
 Round of 16,,Thu,2023-03-16,20:45,Fenerbahçe tr,1.7,1–0,0.1,es Sevilla,44775,Ülker Stadyumu Fenerbahçe Şükrü Saracoğl...,Michael Oliver,Match Report,Leg 2 of 2; Sevilla won
 Round of 16,,Thu,2023-03-16,21:00,Real Sociedad es,1.7,0–0,0.1,it Roma,35054,Reale Arena,István Kovács,Match Report,Leg 2 of 2; Roma won
 Round of 16,,Thu,2023-03-16,21:00,Ferencváros hu,1.0,0–2,2.7,de Leverkusen,50675,Puskás Aréna,Artur Dias,Match Report,Leg 2 of 2; Leverkusen won
@@ -139,3 +147,4 @@ Semi-finals,,Thu,2023-05-11,21:00,Roma it,1.3,1–0,1.0,de Leverkusen,62123,Stad
 Semi-finals,,Thu,2023-05-11,21:00,Juventus it,2.0,1–1,1.6,es Sevilla,34816,Allianz Stadium,Daniel Siebert,Match Report,Leg 1 of 2
 Semi-finals,,Thu,2023-05-18,21:00,Leverkusen de,1.1,0–0,0.0,it Roma,30210,BayArena,Slavko Vinčič,Match Report,Leg 2 of 2; Roma won
 Semi-finals,,Thu,2023-05-18,21:00,Sevilla es,1.4,2–1,1.8,it Juventus,42186,Estadio Ramón Sánchez Pizjuán,Danny Makkelie,Match Report,Leg 2 of 2; Sevilla won; Required Extra Time
+Final,,Wed,2023-05-31,21:00,Sevilla es,0.8,(4) 1–1 (1),1.9,it Roma,,Puskás Aréna (Neutral Site),Anthony Taylor,Match Report,Sevilla won on penalty kicks following extra time

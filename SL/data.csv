@@ -1,177 +1,183 @@
-Wo,Tag,Datum,Uhrzeit,Heim,Ergebnis,Auswärts,Zuschauerzahl,Spielort,Schiedsrichter,Spielbericht,Hinweise
-1,Sa.,16.07.2022,18:00,Young Boys,4–0,Zürich,31.120,Stadion Wankdorf,Sandro Schärer,Spielbericht,
-1,Sa.,16.07.2022,20:30,FC Winterthur,1–1,Basel,8.400,Stadion Schützenwiese,Alain Bieri,Spielbericht,
-1,So.,17.07.2022,16:30,Servette FC,1–0,St. Gallen,4.872,Stade de Genève,Lukas Fähndrich,Spielbericht,
-1,So.,17.07.2022,16:30,Lugano,2–3,Sion,2.737,Stadio di Cornaredo,Fedayi San,Spielbericht,
-2,Sa.,23.07.2022,18:00,Zürich,0–0,Luzern,12.905,Stadion Letzigrund,Luca Piccolo,Spielbericht,
-2,Sa.,23.07.2022,20:30,St. Gallen,2–0,FC Winterthur,15.673,Kybunpark,Sven Wolfensberger,Spielbericht,
-2,So.,24.07.2022,14:15,Basel,1–1,Servette FC,18.670,St. Jakob-Park,Alessandro Dudic,Spielbericht,
-2,So.,24.07.2022,16:30,Grasshopper,2–1,Lugano,4.123,Stadion Letzigrund,Stefan Horisberger,Spielbericht,
-2,So.,24.07.2022,16:30,Sion,0–3,Young Boys,8.500,Stade de Tourbillon,Alain Bieri,Spielbericht,
-3,Sa.,30.07.2022,18:00,St. Gallen,2–0,Zürich,17.838,Kybunpark,Lukas Fähndrich,Spielbericht,
-3,Sa.,30.07.2022,20:30,Sion,0–0,Servette FC,8.200,Stade de Tourbillon,Sven Wolfensberger,Spielbericht,
-3,So.,31.07.2022,16:30,Young Boys,1–1,Grasshopper,26.210,Stadion Wankdorf,Sandro Schärer,Spielbericht,
-3,So.,31.07.2022,16:30,FC Winterthur,1–4,Lugano,7.800,Stadion Schützenwiese,Luca Cibelli,Spielbericht,
-4,Sa.,06.08.2022,18:00,Servette FC,1–0,FC Winterthur,4.624,Stade de Genève,Stefan Horisberger,Spielbericht,
-4,Sa.,06.08.2022,20:30,Grasshopper,3–2,St. Gallen,6.678,Stadion Letzigrund,Luca Piccolo,Spielbericht,
-4,So.,07.08.2022,14:15,Zürich,0–3,Sion,13.619,Stadion Letzigrund,Urs Schnyder,Spielbericht,
-4,So.,07.08.2022,16:30,Basel,0–0,Young Boys,26.547,St. Jakob-Park,Lukas Fähndrich,Spielbericht,
-4,So.,07.08.2022,16:30,Lugano,1–2,Luzern,3.060,Stadio di Cornaredo,Alain Bieri,Spielbericht,
-1,Mi.,10.08.2022,19:00,Luzern,1–1,Grasshopper,12.919,swissporarena,Alessandro Dudic,Spielbericht,
-5,Sa.,13.08.2022,18:00,Sion,2–2,Grasshopper,8.600,Stade de Tourbillon,Stefan Horisberger,Spielbericht,
-5,Sa.,13.08.2022,20:30,St. Gallen,4–1,Luzern,16.609,Kybunpark,Urs Schnyder,Spielbericht,
-5,So.,14.08.2022,14:15,FC Winterthur,1–1,Zürich,8.400,Stadion Schützenwiese,Sandro Schärer,Spielbericht,
-5,So.,14.08.2022,16:30,Basel,0–2,Lugano,19.888,St. Jakob-Park,Alessandro Dudic,Spielbericht,
-5,So.,14.08.2022,16:30,Young Boys,3–0,Servette FC,26.212,Stadion Wankdorf,Fedayi San,Spielbericht,
-6,Sa.,27.08.2022,18:00,Luzern,2–0,Sion,10.067,swissporarena,Alain Bieri,Spielbericht,
-6,Sa.,27.08.2022,20:30,Servette FC,3–1,Grasshopper,6.450,Stade de Genève,Sven Wolfensberger,Spielbericht,
-6,So.,28.08.2022,14:15,Lugano,2–3,St. Gallen,3.337,Stadio di Cornaredo,Stefan Horisberger,Spielbericht,
-6,So.,28.08.2022,16:30,FC Winterthur,1–5,Young Boys,8.400,Stadion Schützenwiese,Anojen Kanagasingam,Spielbericht,
-6,So.,28.08.2022,16:30,Zürich,2–4,Basel,19.111,Stadion Letzigrund,Fedayi San,Spielbericht,
-7,Sa.,03.09.2022,18:00,Sion,2–1,Basel,11.800,Stade de Tourbillon,Lukas Fähndrich,Spielbericht,
-7,Sa.,03.09.2022,20:30,Zürich,1–2,Lugano,10.360,Stadion Letzigrund,Alessandro Dudic,Spielbericht,
-7,So.,04.09.2022,14:15,Luzern,0–2,Servette FC,11.946,swissporarena,Urs Schnyder,Spielbericht,
-7,So.,04.09.2022,16:30,Grasshopper,3–0,FC Winterthur,8.270,Stadion Letzigrund,Nico Gianforte,Spielbericht,
-7,So.,04.09.2022,16:30,St. Gallen,2–1,Young Boys,19.200,Kybunpark,Fedayi San,Spielbericht,
-8,Sa.,10.09.2022,18:00,St. Gallen,1–2,Sion,18.579,Kybunpark,Luca Cibelli,Spielbericht,
-8,Sa.,10.09.2022,20:30,FC Winterthur,0–6,Luzern,8.400,Stadion Schützenwiese,Johannes von Mandach,Spielbericht,
-8,So.,11.09.2022,14:15,Servette FC,3–2,Zürich,10.168,Stade de Genève,Fedayi San,Spielbericht,
-8,So.,11.09.2022,16:30,Young Boys,3–0,Lugano,31.120,Stadion Wankdorf,Sven Wolfensberger,Spielbericht,
-8,So.,11.09.2022,16:30,Basel,5–1,Grasshopper,22.109,St. Jakob-Park,Alain Bieri,Spielbericht,
-9,Sa.,01.10.2022,18:00,Basel,3–2,St. Gallen,2.263,St. Jakob-Park,Sandro Schärer,Spielbericht,
-9,Sa.,01.10.2022,20:30,Grasshopper,1–1,Zürich,16.974,Stadion Letzigrund,Lukas Fähndrich,Spielbericht,
-9,So.,02.10.2022,14:15,Sion,1–3,FC Winterthur,,Stade de Tourbillon,Mirel Turkes,Spielbericht,
-9,So.,02.10.2022,16:30,Luzern,1–2,Young Boys,14.870,swissporarena,Esther Staubli,Spielbericht,
-9,So.,02.10.2022,16:30,Lugano,1–0,Servette FC,3.340,Stadio di Cornaredo,Alain Bieri,Spielbericht,
-10,Sa.,08.10.2022,18:00,Grasshopper,4–4,Sion,4.474,Stadion Letzigrund,Anojen Kanagasingam,Spielbericht,
-10,Sa.,08.10.2022,20:30,Young Boys,2–1,St. Gallen,,Stadion Wankdorf,Urs Schnyder,Spielbericht,
-10,So.,09.10.2022,14:15,Servette FC,1–1,Luzern,8.457,Stade de Genève,Fedayi San,Spielbericht,
-10,So.,09.10.2022,16:30,Zürich,0–0,FC Winterthur,15.481,Stadion Letzigrund,Luca Piccolo,Spielbericht,
-10,So.,09.10.2022,16:30,Lugano,1–0,Basel,3.389,Stadio di Cornaredo,Lukas Fähndrich,Spielbericht,
-11,Sa.,15.10.2022,18:00,Sion,2–0,Luzern,9.000,Stade de Tourbillon,Stefan Horisberger,Spielbericht,
-11,Sa.,15.10.2022,20:30,FC Winterthur,1–0,Grasshopper,8.400,Stadion Schützenwiese,Luca Cibelli,Spielbericht,
-11,So.,16.10.2022,14:15,St. Gallen,1–1,Lugano,17.059,Kybunpark,Sven Wolfensberger,Spielbericht,
-11,So.,16.10.2022,16:30,Zürich,0–0,Young Boys,14.565,Stadion Letzigrund,Fedayi San,Spielbericht,
-11,So.,16.10.2022,16:30,Servette FC,0–0,Basel,10.482,Stade de Genève,Urs Schnyder,Spielbericht,
-12,Di.,18.10.2022,20:30,FC Winterthur,1–0,Sion,8.000,Stadion Schützenwiese,Alessandro Dudic,Spielbericht,
-12,Mi.,19.10.2022,20:30,Lugano,1–4,Young Boys,3.307,Stadio di Cornaredo,Sandro Schärer,Spielbericht,
-12,Mi.,19.10.2022,20:30,Luzern,3–3,St. Gallen,10.366,swissporarena,Luca Piccolo,Spielbericht,
-12,Do.,20.10.2022,20:30,Basel,0–0,Zürich,23.241,St. Jakob-Park,Lukas Fähndrich,Spielbericht,
-12,Do.,20.10.2022,20:30,Grasshopper,2–3,Servette FC,3.086,Stadion Letzigrund,Stefan Horisberger,Spielbericht,
-13,Sa.,22.10.2022,18:00,Young Boys,1–1,Sion,27.767,Stadion Wankdorf,Urs Schnyder,Spielbericht,
-13,Sa.,22.10.2022,20:30,Luzern,3–1,Lugano,10.037,swissporarena,Nico Gianforte,Spielbericht,
-13,So.,23.10.2022,14:15,Basel,3–1,FC Winterthur,,St. Jakob-Park,Esther Staubli,Spielbericht,
-13,So.,23.10.2022,16:30,St. Gallen,1–1,Servette FC,16.679,Kybunpark,Fedayi San,Spielbericht,
-13,So.,23.10.2022,16:30,Zürich,1–4,Grasshopper,15.496,Stadion Letzigrund,Luca Cibelli,Spielbericht,
-14,Sa.,29.10.2022,18:00,Grasshopper,1–3,Luzern,5.117,Stadion Letzigrund,Luca Cibelli,Spielbericht,
-14,Sa.,29.10.2022,20:30,Servette FC,2–2,Lugano,5.842,Stade de Genève,Lukas Fähndrich,Spielbericht,
-14,So.,30.10.2022,14:15,Sion,0–1,Zürich,10.300,Stade de Tourbillon,Alessandro Dudic,Spielbericht,
-14,So.,30.10.2022,16:30,Young Boys,3–1,Basel,31.120,Stadion Wankdorf,Sandro Schärer,Spielbericht,
-14,So.,30.10.2022,16:30,FC Winterthur,1–0,St. Gallen,8.400,Stadion Schützenwiese,Johannes von Mandach,Spielbericht,
-15,Sa.,05.11.2022,18:00,St. Gallen,2–1,Grasshopper,18.517,Kybunpark,Esther Staubli,Spielbericht,
-15,Sa.,05.11.2022,20:30,Luzern,1–1,FC Winterthur,11.516,swissporarena,Luca Piccolo,Spielbericht,
-15,So.,06.11.2022,14:15,Servette FC,0–0,Young Boys,16.214,Stade de Genève,Urs Schnyder,Spielbericht,
-15,So.,06.11.2022,16:30,Lugano,2–0,Zürich,3.560,Stadio di Cornaredo,Sven Wolfensberger,Spielbericht,
-15,So.,06.11.2022,16:30,Basel,0–0,Sion,22.889,St. Jakob-Park,Alain Bieri,Spielbericht,
-3,Mi.,09.11.2022,20:30,Luzern,0–2,Basel,12.304,swissporarena,Fedayi San,Spielbericht,
-16,Sa.,12.11.2022,18:00,Sion,2–7,St. Gallen,10.500,Stade de Tourbillon,Sven Wolfensberger,Spielbericht,
-16,Sa.,12.11.2022,20:30,Grasshopper,1–0,Basel,7.153,Stadion Letzigrund,Alessandro Dudic,Spielbericht,
-16,So.,13.11.2022,14:15,Zürich,4–1,Servette FC,12.776,Stadion Letzigrund,Mirel Turkes,Spielbericht,
-16,So.,13.11.2022,16:30,Young Boys,3–0,Luzern,31.120,Stadion Wankdorf,Alain Bieri,Spielbericht,
-16,So.,13.11.2022,16:30,Lugano,3–1,FC Winterthur,3.140,Stadio di Cornaredo,Luca Cibelli,Spielbericht,
-17,Sa.,21.01.2023,18:00,Luzern,2–2,Zürich,13.979,swissporarena,Fedayi San,Spielbericht,
-17,Sa.,21.01.2023,20:30,Grasshopper,1–2,Young Boys,5.181,Stadion Letzigrund,Luca Cibelli,Spielbericht,
-17,So.,22.01.2023,14:15,Sion,2–3,Lugano,6.500,Stade de Tourbillon,Lukas Fähndrich,Spielbericht,
-17,So.,22.01.2023,16:30,St. Gallen,1–1,Basel,19.200,Kybunpark,Urs Schnyder,Spielbericht,
-18,Sa.,28.01.2023,18:00,Lugano,1–1,Grasshopper,2.841,Stadio di Cornaredo,Fedayi San,Spielbericht,
-18,Sa.,28.01.2023,20:30,Basel,2–3,Luzern,19.713,St. Jakob-Park,Luca Cibelli,Spielbericht,
-18,So.,29.01.2023,14:15,Young Boys,5–1,FC Winterthur,27.310,Stadion Wankdorf,Sven Wolfensberger,Spielbericht,
-18,So.,29.01.2023,16:30,Servette FC,2–2,Sion,14.592,Stade de Genève,Urs Schnyder,Spielbericht,
-18,So.,29.01.2023,16:30,Zürich,1–0,St. Gallen,14.950,Stadion Letzigrund,Luca Piccolo,Spielbericht,
-19,Sa.,04.02.2023,18:00,Grasshopper,1–0,Basel,5.145,Stadion Letzigrund,Urs Schnyder,Spielbericht,
-19,Sa.,04.02.2023,20:30,St. Gallen,3–0,Servette FC,14.806,Kybunpark,Sven Wolfensberger,Spielbericht,
-19,So.,05.02.2023,14:15,Sion,0–1,Zürich,7.600,Stade de Tourbillon,Esther Staubli,Spielbericht,
-19,So.,05.02.2023,16:30,FC Winterthur,1–0,Lugano,7.500,Stadion Schützenwiese,Nico Gianforte,Spielbericht,
-19,So.,05.02.2023,16:30,Luzern,1–1,Young Boys,11.809,swissporarena,Sandro Schärer,Spielbericht,
-20,Sa.,11.02.2023,18:00,Servette FC,2–1,Grasshopper,5.014,Stade de Genève,Lukas Fähndrich,Spielbericht,
-20,Sa.,11.02.2023,20:30,Basel,3–1,Sion,19.522,St. Jakob-Park,Fedayi San,Spielbericht,
-20,So.,12.02.2023,14:15,Lugano,1–1,Luzern,3.026,Stadio di Cornaredo,Anojen Kanagasingam,Spielbericht,
-20,So.,12.02.2023,16:30,Young Boys,5–1,St. Gallen,27.164,Stadion Wankdorf,Urs Schnyder,Spielbericht,
-20,So.,12.02.2023,16:30,Zürich,1–1,FC Winterthur,13.690,Stadion Letzigrund,Luca Cibelli,Spielbericht,
-17,Mi.,15.02.2023,18:45,FC Winterthur,1–2,Servette FC,7.800,Stadion Schützenwiese,Stefan Horisberger,Spielbericht,
-21,Sa.,18.02.2023,18:00,FC Winterthur,1–1,Sion,8.200,Stadion Schützenwiese,Sven Wolfensberger,Spielbericht,
-21,Sa.,18.02.2023,20:30,Young Boys,1–1,Lugano,24.648,Stadion Wankdorf,Luca Cibelli,Spielbericht,
-21,So.,19.02.2023,14:15,St. Gallen,2–2,Luzern,17.126,Kybunpark,Fedayi San,Spielbericht,
-21,So.,19.02.2023,16:30,Basel,2–2,Servette FC,19.443,St. Jakob-Park,Sandro Schärer,Spielbericht,
-21,So.,19.02.2023,16:30,Grasshopper,1–2,Zürich,16.185,Stadion Letzigrund,Urs Schnyder,Spielbericht,
-22,Sa.,25.02.2023,18:00,Sion,0–4,St. Gallen,7.300,Stade de Tourbillon,Stefan Horisberger,Spielbericht,
-22,Sa.,25.02.2023,20:30,Zürich,2–2,Young Boys,15.393,Stadion Letzigrund,Lukas Fähndrich,Spielbericht,
-22,So.,26.02.2023,14:15,Luzern,1–0,Grasshopper,12.499,swissporarena,Johannes von Mandach,Spielbericht,
-22,So.,26.02.2023,16:30,Lugano,2–2,Basel,3.205,Stadio di Cornaredo,Sven Wolfensberger,Spielbericht,
-22,So.,26.02.2023,16:30,Servette FC,1–1,FC Winterthur,6.123,Stade de Genève,Esther Staubli,Spielbericht,
-23,Sa.,04.03.2023,18:00,FC Winterthur,1–1,Young Boys,8.400,Stadion Schützenwiese,Luca Piccolo,Spielbericht,
-23,Sa.,04.03.2023,20:30,Luzern,0–1,Basel,13.248,swissporarena,Luca Cibelli,Spielbericht,
-23,So.,05.03.2023,14:15,St. Gallen,1–1,Grasshopper,18.484,Kybunpark,Lukas Fähndrich,Spielbericht,
-23,So.,05.03.2023,16:30,Sion,1–1,Lugano,4.800,Stade de Tourbillon,Urs Schnyder,Spielbericht,
-23,So.,05.03.2023,16:30,Zürich,1–1,Servette FC,13.780,Stadion Letzigrund,Stefan Horisberger,Spielbericht,
-24,Sa.,11.03.2023,18:00,Young Boys,4–0,Sion,28.052,Stadion Wankdorf,Luca Cibelli,Spielbericht,
-24,Sa.,11.03.2023,20:30,Lugano,2–0,Zürich,4.700,Stadio di Cornaredo,Esther Staubli,Spielbericht,
-24,So.,12.03.2023,14:15,Servette FC,0–1,Luzern,6.803,Stade de Genève,Sandro Schärer,Spielbericht,
-24,So.,12.03.2023,16:30,Grasshopper,2–1,FC Winterthur,7.343,Stadion Letzigrund,Sven Wolfensberger,Spielbericht,
-24,So.,12.03.2023,16:30,Basel,1–1,St. Gallen,22.635,St. Jakob-Park,Fedayi San,Spielbericht,
-25,Sa.,18.03.2023,18:00,Zürich,2–1,Luzern,15.330,Stadion Letzigrund,Urs Schnyder,Spielbericht,
-25,Sa.,18.03.2023,20:30,Sion,1–2,Grasshopper,7.000,Stade de Tourbillon,Sven Wolfensberger,Spielbericht,
-25,So.,19.03.2023,14:15,FC Winterthur,1–0,St. Gallen,8.400,Stadion Schützenwiese,Stefan Horisberger,Spielbericht,
-25,So.,19.03.2023,16:30,Young Boys,3–0,Basel,31.500,Stadion Wankdorf,Lukas Fähndrich,Spielbericht,
-25,So.,19.03.2023,16:30,Lugano,1–1,Servette FC,2.607,Stadio di Cornaredo,Mirel Turkes,Spielbericht,
-26,Sa.,01.04.2023,18:00,Servette FC,2–1,Young Boys,9.189,Stade de Genève,Luca Cibelli,Spielbericht,
-26,Sa.,01.04.2023,20:30,Basel,2–0,FC Winterthur,19.921,St. Jakob-Park,Luca Piccolo,Spielbericht,
-26,So.,02.04.2023,14:15,Grasshopper,2–1,Lugano,4.502,Stadion Letzigrund,Stefan Horisberger,Spielbericht,
-26,So.,02.04.2023,16:30,Luzern,1–2,Sion,13.367,swissporarena,Fedayi San,Spielbericht,
-26,So.,02.04.2023,16:30,St. Gallen,2–2,Zürich,19.540,Kybunpark,Sven Wolfensberger,Spielbericht,
-27,Sa.,08.04.2023,18:00,Zürich,1–1,Basel,19.451,Stadion Letzigrund,Lukas Fähndrich,Spielbericht,
-27,Sa.,08.04.2023,20:30,Sion,2–2,Servette FC,11.850,Stade de Tourbillon,Sven Wolfensberger,Spielbericht,
-27,Mo.,10.04.2023,14:15,Lugano,1–1,St. Gallen,,Stadio di Cornaredo,Stefan Horisberger,Spielbericht,
-27,Mo.,10.04.2023,16:30,FC Winterthur,1–2,Luzern,8.400,Stadion Schützenwiese,Johannes von Mandach,Spielbericht,
-27,Mo.,10.04.2023,16:30,Young Boys,2–0,Grasshopper,31.500,Stadion Wankdorf,Luca Piccolo,Spielbericht,
-28,Sa.,15.04.2023,18:00,Servette FC,0–0,Lugano,4.141,Stade de Genève,Urs Schnyder,Spielbericht,
-28,Sa.,15.04.2023,20:30,Luzern,4–1,Zürich,14.217,swissporarena,Luca Cibelli,Spielbericht,
-28,So.,16.04.2023,14:15,St. Gallen,2–3,FC Winterthur,18.376,Kybunpark,Esther Staubli,Spielbericht,
-28,So.,16.04.2023,16:30,Grasshopper,1–3,Sion,4.602,Stadion Letzigrund,Anojen Kanagasingam,Spielbericht,
-28,So.,16.04.2023,16:30,Basel,1–1,Young Boys,14.142,St. Jakob-Park,Fedayi San,Spielbericht,
-29,Sa.,22.04.2023,18:00,FC Winterthur,1–2,Grasshopper,8.400,Stadion Schützenwiese,Fedayi San,Spielbericht,
-29,Sa.,22.04.2023,20:30,Young Boys,6–1,Servette FC,27.883,Stadion Wankdorf,Sandro Schärer,Spielbericht,
-29,So.,23.04.2023,14:15,Basel,0–2,Luzern,22.966,St. Jakob-Park,Sven Wolfensberger,Spielbericht,
-29,So.,23.04.2023,16:30,Zürich,1–0,St. Gallen,16.585,Stadion Letzigrund,Urs Schnyder,Spielbericht,
-29,So.,23.04.2023,16:30,Lugano,2–0,Sion,3.005,Stadio di Cornaredo,Esther Staubli,Spielbericht,
-30,Di.,25.04.2023,20:30,Grasshopper,4–1,Young Boys,8.704,Stadion Letzigrund,Mirel Turkes,Spielbericht,
-30,Mi.,26.04.2023,20:30,St. Gallen,1–2,Lugano,12.226,Kybunpark,Luca Cibelli,Spielbericht,
-30,Mi.,26.04.2023,20:30,Servette FC,4–0,Zürich,4.818,Stade de Genève,Alessandro Dudic,Spielbericht,
-30,Do.,27.04.2023,20:30,Sion,1–2,Basel,,Stade de Tourbillon,Lukas Fähndrich,Spielbericht,
-30,Do.,27.04.2023,20:30,Luzern,3–1,FC Winterthur,,swissporarena,Luca Piccolo,Spielbericht,
-31,Sa.,29.04.2023,20:30,Lugano,5–1,Grasshopper,3.627,Stadio di Cornaredo,Stefan Horisberger,Spielbericht,
-31,Sa.,29.04.2023,20:30,Servette FC,1–1,St. Gallen,7.072,Stade de Genève,Sandro Schärer,Spielbericht,
-31,So.,30.04.2023,14:15,Zürich,2–2,Sion,14.608,Stadion Letzigrund,Sven Wolfensberger,Spielbericht,
-31,So.,30.04.2023,16:30,Young Boys,5–1,Luzern,31.500,Stadion Wankdorf,Luca Cibelli,Spielbericht,
-31,So.,30.04.2023,16:30,FC Winterthur,1–4,Basel,8.400,Stadion Schützenwiese,Fedayi San,Spielbericht,
-32,Sa.,06.05.2023,18:00,Sion,0–1,FC Winterthur,9.800,Stade de Tourbillon,Luca Cibelli,Spielbericht,
-32,Sa.,06.05.2023,20:30,St. Gallen,0–2,Young Boys,18.779,Kybunpark,Luca Piccolo,Spielbericht,
-32,So.,07.05.2023,14:15,Luzern,2–2,Lugano,14.358,swissporarena,Sven Wolfensberger,Spielbericht,
-32,So.,07.05.2023,16:30,Grasshopper,2–3,Servette FC,5.473,Stadion Letzigrund,Anojen Kanagasingam,Spielbericht,
-32,So.,07.05.2023,16:30,Basel,0–2,Zürich,27.295,St. Jakob-Park,Alessandro Dudic,Spielbericht,
-33,Sat,2023-05-13,18:00,Grasshopper,2–0,Luzern,5135,Stadion Letzigrund,Stefan Horisberger,Match Report,
-33,Sat,2023-05-13,20:30,Servette FC,5–0,Sion,14188,Stade de Genève,Urs Schnyder,Match Report,
-33,Sun,2023-05-14,14:15,Young Boys,1–1,Zürich,,Stadion Wankdorf,Luca Piccolo,Match Report,
-33,Sun,2023-05-14,16:30,St. Gallen,6–1,Basel,18846,Kybunpark,Luca Cibelli,Match Report,
-33,Sun,2023-05-14,16:30,Lugano,2–1,FC Winterthur,3035,Stadio di Cornaredo,Esther Staubli,Match Report,
-34,Sat,2023-05-20,18:00,FC Winterthur,0–1,Servette FC,8000,Stadion Schützenwiese,Stefan Horisberger,Match Report,
-35,Sat,2023-05-25,20:30,Sion,1–2,Luzern,5500,Stade de Tourbillon,Urs Schnyder,Match Report,
-35,Sat,2023-05-25,20:30,Servette FC,3–3,Basel,12353,Stade de Genève,Esther Staubli,Match Report,
-35,Sat,2023-05-25,20:30,Grasshopper,2–2,St. Gallen,4048,Stadion Letzigrund,Luca Piccolo,Match Report,
-35,Sat,2023-05-25,20:30,Lugano,2–0,Young Boys,3350,Stadio di Cornaredo,Luca Cibelli,Match Report,
-35,Sat,2023-05-25,20:30,FC Winterthur,0–2,Zürich,8400,Stadion Schützenwiese,Lukas Fähndrich,Match Report,
-36,Mon,2023-05-29,16:30,Young Boys,2–1,FC Winterthur,31500,Stadion Wankdorf,Luca Piccolo,Match Report,
-36,Mon,2023-05-29,16:30,Basel,3–1,Grasshopper,26611,St. Jakob-Park,Sven Wolfensberger,Match Report,
-36,Mon,2023-05-29,16:30,St. Gallen,4–0,Sion,18423,Kybunpark,Luca Cibelli,Match Report,
-36,Mon,2023-05-29,16:30,Zürich,2–3,Lugano,17672,Stadion Letzigrund,Alessandro Dudic,Match Report,
-36,Mon,2023-05-29,16:30,Luzern,0–1,Servette FC,15872,swissporarena,Mirel Turkes,Match Report,
+Heim,Auswärts,Ergebnis,Datum,Heimgewinn,Auswärtsgewinn,Unentschieden
+BSC Young Boys,FC Zurich,"[4, 0]",2022-07-16 16:00:00,1,0,0
+FC Winterthur,FC Basel 1893,"[1, 1]",2022-07-16 18:30:00,0,0,1
+FC Lugano,FC Sion,"[2, 3]",2022-07-17 14:30:00,0,1,0
+Servette FC,FC ST. Gallen,"[1, 0]",2022-07-17 14:30:00,1,0,0
+FC Luzern,Grasshoppers,"[1, 1]",2022-08-10 17:00:00,0,0,1
+FC Zurich,FC Luzern,"[0, 0]",2022-07-23 16:00:00,0,0,1
+FC ST. Gallen,FC Winterthur,"[2, 0]",2022-07-23 18:30:00,1,0,0
+FC Basel 1893,Servette FC,"[1, 1]",2022-07-24 12:15:00,0,0,1
+Grasshoppers,FC Lugano,"[2, 1]",2022-07-24 14:30:00,1,0,0
+FC Sion,BSC Young Boys,"[0, 3]",2022-07-24 14:30:00,0,1,0
+FC ST. Gallen,FC Zurich,"[2, 0]",2022-07-30 16:00:00,1,0,0
+FC Sion,Servette FC,"[0, 0]",2022-07-30 18:30:00,0,0,1
+FC Winterthur,FC Lugano,"[1, 4]",2022-07-31 14:30:00,0,1,0
+BSC Young Boys,Grasshoppers,"[1, 1]",2022-07-31 14:30:00,0,0,1
+FC Luzern,FC Basel 1893,"[0, 2]",2022-11-09 19:30:00,0,1,0
+Servette FC,FC Winterthur,"[1, 0]",2022-08-06 16:00:00,1,0,0
+Grasshoppers,FC ST. Gallen,"[3, 2]",2022-08-06 18:30:00,1,0,0
+FC Zurich,FC Sion,"[0, 3]",2022-08-07 12:15:00,0,1,0
+FC Basel 1893,BSC Young Boys,"[0, 0]",2022-08-07 14:30:00,0,0,1
+FC Lugano,FC Luzern,"[1, 2]",2022-08-07 14:30:00,0,1,0
+FC Sion,Grasshoppers,"[2, 2]",2022-08-13 16:00:00,0,0,1
+FC Winterthur,FC Zurich,"[1, 1]",2022-08-14 12:15:00,0,0,1
+FC ST. Gallen,FC Luzern,"[4, 1]",2022-08-13 18:30:00,1,0,0
+FC Basel 1893,FC Lugano,"[0, 2]",2022-08-14 14:30:00,0,1,0
+BSC Young Boys,Servette FC,"[3, 0]",2022-08-14 14:30:00,1,0,0
+FC Luzern,FC Sion,"[2, 0]",2022-08-27 16:00:00,1,0,0
+Servette FC,Grasshoppers,"[3, 1]",2022-08-27 18:30:00,1,0,0
+FC Lugano,FC ST. Gallen,"[2, 3]",2022-08-28 12:15:00,0,1,0
+FC Winterthur,BSC Young Boys,"[1, 5]",2022-08-28 14:30:00,0,1,0
+FC Zurich,FC Basel 1893,"[2, 4]",2022-08-28 14:30:00,0,1,0
+FC Sion,FC Basel 1893,"[2, 1]",2022-09-03 16:00:00,1,0,0
+FC Zurich,FC Lugano,"[1, 2]",2022-09-03 18:30:00,0,1,0
+FC Luzern,Servette FC,"[0, 2]",2022-09-04 12:15:00,0,1,0
+Grasshoppers,FC Winterthur,"[3, 0]",2022-09-04 14:30:00,1,0,0
+FC ST. Gallen,BSC Young Boys,"[2, 1]",2022-09-04 14:30:00,1,0,0
+FC ST. Gallen,FC Sion,"[1, 2]",2022-09-10 16:00:00,0,1,0
+Servette FC,FC Zurich,"[3, 2]",2022-09-11 12:15:00,1,0,0
+FC Winterthur,FC Luzern,"[0, 6]",2022-09-10 18:30:00,0,1,0
+FC Basel 1893,Grasshoppers,"[5, 1]",2022-09-11 14:30:00,1,0,0
+BSC Young Boys,FC Lugano,"[3, 0]",2022-09-11 14:30:00,1,0,0
+FC Basel 1893,FC ST. Gallen,"[3, 2]",2022-10-01 16:00:00,1,0,0
+Grasshoppers,FC Zurich,"[1, 1]",2022-10-01 18:30:00,0,0,1
+FC Sion,FC Winterthur,"[1, 3]",2022-10-02 12:15:00,0,1,0
+FC Lugano,Servette FC,"[1, 0]",2022-10-02 14:30:00,1,0,0
+FC Luzern,BSC Young Boys,"[1, 2]",2022-10-02 14:30:00,0,1,0
+Grasshoppers,FC Sion,"[4, 4]",2022-10-08 16:00:00,0,0,1
+FC Lugano,FC Basel 1893,"[1, 0]",2022-10-09 14:30:00,1,0,0
+Servette FC,FC Luzern,"[1, 1]",2022-10-09 12:15:00,0,0,1
+BSC Young Boys,FC ST. Gallen,"[2, 1]",2022-10-08 18:30:00,1,0,0
+FC Zurich,FC Winterthur,"[0, 0]",2022-10-09 14:30:00,0,0,1
+Servette FC,FC Basel 1893,"[0, 0]",2022-10-16 14:30:00,0,0,1
+FC Sion,FC Luzern,"[2, 0]",2022-10-15 16:00:00,1,0,0
+FC ST. Gallen,FC Lugano,"[1, 1]",2022-10-16 12:15:00,0,0,1
+FC Winterthur,Grasshoppers,"[1, 0]",2022-10-15 18:30:00,1,0,0
+FC Zurich,BSC Young Boys,"[0, 0]",2022-10-16 14:30:00,0,0,1
+FC Basel 1893,FC Zurich,"[0, 0]",2022-10-20 18:30:00,0,0,1
+Grasshoppers,Servette FC,"[2, 3]",2022-10-20 18:30:00,0,1,0
+FC Lugano,BSC Young Boys,"[1, 4]",2022-10-19 18:30:00,0,1,0
+FC Luzern,FC ST. Gallen,"[3, 3]",2022-10-19 18:30:00,0,0,1
+FC Winterthur,FC Sion,"[1, 0]",2022-10-18 18:30:00,1,0,0
+FC Basel 1893,FC Winterthur,"[3, 1]",2022-10-23 12:15:00,1,0,0
+FC Luzern,FC Lugano,"[3, 1]",2022-10-22 18:30:00,1,0,0
+FC ST. Gallen,Servette FC,"[1, 1]",2022-10-23 14:30:00,0,0,1
+BSC Young Boys,FC Sion,"[1, 1]",2022-10-22 16:00:00,0,0,1
+FC Zurich,Grasshoppers,"[1, 4]",2022-10-23 14:30:00,0,1,0
+Grasshoppers,FC Luzern,"[1, 3]",2022-10-29 16:00:00,0,1,0
+Servette FC,FC Lugano,"[2, 2]",2022-10-29 18:30:00,0,0,1
+FC Sion,FC Zurich,"[0, 1]",2022-10-30 13:15:00,0,1,0
+FC Winterthur,FC ST. Gallen,"[1, 0]",2022-10-30 15:30:00,1,0,0
+BSC Young Boys,FC Basel 1893,"[3, 1]",2022-10-30 15:30:00,1,0,0
+FC Basel 1893,FC Sion,"[0, 0]",2022-11-06 15:30:00,0,0,1
+FC Lugano,FC Zurich,"[2, 0]",2022-11-06 15:30:00,1,0,0
+FC Luzern,FC Winterthur,"[1, 1]",2022-11-05 19:30:00,0,0,1
+Servette FC,BSC Young Boys,"[0, 0]",2022-11-06 13:15:00,0,0,1
+FC ST. Gallen,Grasshoppers,"[2, 1]",2022-11-05 17:00:00,1,0,0
+Grasshoppers,FC Basel 1893,"[1, 0]",2022-11-12 19:30:00,1,0,0
+FC Sion,FC ST. Gallen,"[2, 7]",2022-11-12 17:00:00,0,1,0
+FC Lugano,FC Winterthur,"[3, 1]",2022-11-13 15:30:00,1,0,0
+BSC Young Boys,FC Luzern,"[3, 0]",2022-11-13 15:30:00,1,0,0
+FC Zurich,Servette FC,"[4, 1]",2022-11-13 13:15:00,1,0,0
+Grasshoppers,BSC Young Boys,"[1, 2]",2023-01-21 19:30:00,0,1,0
+FC Luzern,FC Zurich,"[2, 2]",2023-01-21 17:00:00,0,0,1
+FC Sion,FC Lugano,"[2, 3]",2023-01-22 13:15:00,0,1,0
+FC ST. Gallen,FC Basel 1893,"[1, 1]",2023-01-22 15:30:00,0,0,1
+FC Winterthur,Servette FC,"[1, 2]",2023-02-15 17:45:00,0,1,0
+FC Basel 1893,FC Luzern,"[2, 3]",2023-01-28 19:30:00,0,1,0
+FC Lugano,Grasshoppers,"[1, 1]",2023-01-28 17:00:00,0,0,1
+Servette FC,FC Sion,"[2, 2]",2023-01-29 15:30:00,0,0,1
+BSC Young Boys,FC Winterthur,"[5, 1]",2023-01-29 13:15:00,1,0,0
+FC Zurich,FC ST. Gallen,"[1, 0]",2023-01-29 15:30:00,1,0,0
+Grasshoppers,FC Basel 1893,"[1, 0]",2023-02-04 17:00:00,1,0,0
+FC Luzern,BSC Young Boys,"[1, 1]",2023-02-05 15:30:00,0,0,1
+FC Sion,FC Zurich,"[0, 1]",2023-02-05 13:15:00,0,1,0
+FC ST. Gallen,Servette FC,"[3, 0]",2023-02-04 19:30:00,1,0,0
+FC Winterthur,FC Lugano,"[1, 0]",2023-02-05 15:30:00,1,0,0
+FC Basel 1893,FC Sion,"[3, 1]",2023-02-11 19:30:00,1,0,0
+FC Lugano,FC Luzern,"[1, 1]",2023-02-12 13:15:00,0,0,1
+Servette FC,Grasshoppers,"[2, 1]",2023-02-11 17:00:00,1,0,0
+BSC Young Boys,FC ST. Gallen,"[5, 1]",2023-02-12 15:30:00,1,0,0
+FC Zurich,FC Winterthur,"[1, 1]",2023-02-12 15:30:00,0,0,1
+FC Basel 1893,Servette FC,"[2, 2]",2023-02-19 15:30:00,0,0,1
+Grasshoppers,FC Zurich,"[1, 2]",2023-02-19 15:30:00,0,1,0
+FC ST. Gallen,FC Luzern,"[2, 2]",2023-02-19 13:15:00,0,0,1
+FC Winterthur,FC Sion,"[1, 1]",2023-02-18 17:00:00,0,0,1
+BSC Young Boys,FC Lugano,"[1, 1]",2023-02-18 19:30:00,0,0,1
+FC Lugano,FC Basel 1893,"[2, 2]",2023-02-26 15:30:00,0,0,1
+FC Luzern,Grasshoppers,"[1, 0]",2023-02-26 13:15:00,1,0,0
+Servette FC,FC Winterthur,"[1, 1]",2023-02-26 15:30:00,0,0,1
+FC Sion,FC ST. Gallen,"[0, 4]",2023-02-25 17:00:00,0,1,0
+FC Zurich,BSC Young Boys,"[2, 2]",2023-02-25 19:30:00,0,0,1
+FC Luzern,FC Basel 1893,"[0, 1]",2023-03-04 19:30:00,0,1,0
+FC Sion,FC Lugano,"[1, 1]",2023-03-05 15:30:00,0,0,1
+FC ST. Gallen,Grasshoppers,"[1, 1]",2023-03-05 13:15:00,0,0,1
+FC Winterthur,BSC Young Boys,"[1, 1]",2023-03-04 17:00:00,0,0,1
+FC Zurich,Servette FC,"[1, 1]",2023-03-05 15:30:00,0,0,1
+FC Basel 1893,FC ST. Gallen,"[1, 1]",2023-03-12 15:30:00,0,0,1
+Grasshoppers,FC Winterthur,"[2, 1]",2023-03-12 15:30:00,1,0,0
+FC Lugano,FC Zurich,"[2, 0]",2023-03-11 19:30:00,1,0,0
+Servette FC,FC Luzern,"[0, 1]",2023-03-12 13:15:00,0,1,0
+BSC Young Boys,FC Sion,"[4, 0]",2023-03-11 17:00:00,1,0,0
+FC Lugano,Servette FC,"[1, 1]",2023-03-19 15:30:00,0,0,1
+FC Sion,Grasshoppers,"[1, 2]",2023-03-18 19:30:00,0,1,0
+FC Winterthur,FC ST. Gallen,"[1, 0]",2023-03-19 13:15:00,1,0,0
+BSC Young Boys,FC Basel 1893,"[3, 0]",2023-03-19 15:30:00,1,0,0
+FC Zurich,FC Luzern,"[2, 1]",2023-03-18 17:00:00,1,0,0
+FC Basel 1893,FC Winterthur,"[2, 0]",2023-04-01 18:30:00,1,0,0
+Grasshoppers,FC Lugano,"[2, 1]",2023-04-02 12:15:00,1,0,0
+FC Luzern,FC Sion,"[1, 2]",2023-04-02 14:30:00,0,1,0
+Servette FC,BSC Young Boys,"[2, 1]",2023-04-01 16:00:00,1,0,0
+FC ST. Gallen,FC Zurich,"[2, 2]",2023-04-02 14:30:00,0,0,1
+FC Lugano,FC ST. Gallen,"[1, 1]",2023-04-10 12:15:00,0,0,1
+FC Sion,Servette FC,"[2, 2]",2023-04-08 18:30:00,0,0,1
+FC Winterthur,FC Luzern,"[1, 2]",2023-04-10 14:30:00,0,1,0
+BSC Young Boys,Grasshoppers,"[2, 0]",2023-04-10 14:30:00,1,0,0
+FC Zurich,FC Basel 1893,"[1, 1]",2023-04-08 16:00:00,0,0,1
+FC Basel 1893,BSC Young Boys,"[1, 1]",2023-04-16 14:30:00,0,0,1
+Grasshoppers,FC Sion,"[1, 3]",2023-04-16 14:30:00,0,1,0
+FC Luzern,FC Zurich,"[4, 1]",2023-04-15 18:30:00,1,0,0
+Servette FC,FC Lugano,"[0, 0]",2023-04-15 16:00:00,0,0,1
+FC ST. Gallen,FC Winterthur,"[2, 3]",2023-04-16 12:15:00,0,1,0
+FC Basel 1893,FC Luzern,"[0, 2]",2023-04-23 12:15:00,0,1,0
+FC Lugano,FC Sion,"[2, 0]",2023-04-23 14:30:00,1,0,0
+FC Winterthur,Grasshoppers,"[1, 2]",2023-04-22 16:00:00,0,1,0
+BSC Young Boys,Servette FC,"[6, 1]",2023-04-22 18:30:00,1,0,0
+FC Zurich,FC ST. Gallen,"[1, 0]",2023-04-23 14:30:00,1,0,0
+Grasshoppers,BSC Young Boys,"[4, 1]",2023-04-25 18:30:00,1,0,0
+FC Luzern,FC Winterthur,"[3, 1]",2023-04-27 18:30:00,1,0,0
+Servette FC,FC Zurich,"[4, 0]",2023-04-26 18:30:00,1,0,0
+FC Sion,FC Basel 1893,"[1, 2]",2023-04-27 18:30:00,0,1,0
+FC ST. Gallen,FC Lugano,"[1, 2]",2023-04-26 18:30:00,0,1,0
+FC Lugano,Grasshoppers,"[5, 1]",2023-04-29 18:30:00,1,0,0
+Servette FC,FC ST. Gallen,"[1, 1]",2023-04-29 18:30:00,0,0,1
+FC Winterthur,FC Basel 1893,"[1, 4]",2023-04-30 14:30:00,0,1,0
+BSC Young Boys,FC Luzern,"[5, 1]",2023-04-30 14:30:00,1,0,0
+FC Zurich,FC Sion,"[2, 2]",2023-04-30 12:15:00,0,0,1
+FC Basel 1893,FC Zurich,"[0, 2]",2023-05-07 14:30:00,0,1,0
+Grasshoppers,Servette FC,"[2, 3]",2023-05-07 14:30:00,0,1,0
+FC Luzern,FC Lugano,"[2, 2]",2023-05-07 12:15:00,0,0,1
+FC Sion,FC Winterthur,"[0, 1]",2023-05-06 16:00:00,0,1,0
+FC ST. Gallen,BSC Young Boys,"[0, 2]",2023-05-06 18:30:00,0,1,0
+Grasshoppers,FC Luzern,"[2, 0]",2023-05-13 16:00:00,1,0,0
+FC Lugano,FC Winterthur,"[2, 1]",2023-05-14 14:30:00,1,0,0
+Servette FC,FC Sion,"[5, 0]",2023-05-13 18:30:00,1,0,0
+FC ST. Gallen,FC Basel 1893,"[6, 1]",2023-05-14 14:30:00,1,0,0
+BSC Young Boys,FC Zurich,"[1, 1]",2023-05-14 12:15:00,0,0,1
+FC Basel 1893,FC Lugano,"[1, 1]",2023-05-21 14:30:00,0,0,1
+FC Luzern,FC ST. Gallen,"[1, 1]",2023-05-20 18:30:00,0,0,1
+FC Sion,BSC Young Boys,"[0, 2]",2023-05-21 12:15:00,0,1,0
+FC Winterthur,Servette FC,"[0, 1]",2023-05-20 16:00:00,0,1,0
+FC Zurich,Grasshoppers,"[2, 1]",2023-05-21 14:30:00,1,0,0
+Grasshoppers,FC ST. Gallen,"[2, 2]",2023-05-25 18:30:00,0,0,1
+FC Lugano,BSC Young Boys,"[2, 0]",2023-05-25 18:30:00,1,0,0
+Servette FC,FC Basel 1893,"[3, 3]",2023-05-25 18:30:00,0,0,1
+FC Sion,FC Luzern,"[1, 2]",2023-05-25 18:30:00,0,1,0
+FC Winterthur,FC Zurich,"[0, 2]",2023-05-25 18:30:00,0,1,0
+FC Basel 1893,Grasshoppers,"[3, 1]",2023-05-29 14:30:00,1,0,0
+FC Luzern,Servette FC,"[0, 1]",2023-05-29 14:30:00,0,1,0
+FC ST. Gallen,FC Sion,"[4, 0]",2023-05-29 14:30:00,1,0,0
+BSC Young Boys,FC Winterthur,"[2, 1]",2023-05-29 14:30:00,1,0,0
+FC Zurich,FC Lugano,"[2, 3]",2023-05-29 14:30:00,0,1,0
+FC Sion,Stade Lausanne-Ouchy,"[0, 2]",2023-06-03 00:00:00,0,1,0
+Stade Lausanne-Ouchy,FC Sion,"[4, 2]",2023-06-06 18:30:00,1,0,0
