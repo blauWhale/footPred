@@ -15,11 +15,31 @@ df = pd.concat([df_2020, df_2021, df_2022], ignore_index=True)
 # Step 3: Split the data into training and testing sets
 X = pd.get_dummies(df[['Heim', 'Auswärts']])
 y = df[['Heimgewinn', 'Auswärtsgewinn', 'Unentschieden']]
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+# Create a weight column to assign higher weights to predictions involving Yverdon Sport and Lausanne Ouchy
+weights = pd.Series(1.0, index=df.index)  # Default weight of 1
+weights[df['Heim'] == 'Yverdon Sport'] = 0.5  # Assign lower weight to Yverdon Sport predictions
+weights[df['Auswärts'] == 'Yverdon Sport'] = 0.5
+weights[df['Heim'] == 'Stade Lausanne-Ouchy'] = 0.5  # Assign lower weight to Lausanne Ouchy predictions
+weights[df['Auswärts'] == 'Stade Lausanne-Ouchy'] = 0.5
+
+
+# Split the weighted data into training and testing sets
+X_train, X_test, y_train, y_test, weights_train, _ = train_test_split(X, y, weights, test_size=0.2, random_state=42)
+
+# Convert weights to a NumPy array
+weights_train = weights_train.values
+weights_train = np.maximum(weights_train, 0.0)
+
+
+# Assign weights based on recency
+weights *= pd.to_datetime(df['Datum']).dt.year.map({2020: 0.6, 2021: 0.8, 2022: 1.0})
+
+
 
 # Step 4: Train a machine learning model
 clf = xgb.XGBClassifier(random_state=42)
-clf.fit(X_train, y_train)
+clf.fit(X_train, y_train, sample_weight=weights_train)  # Pass the sample weights during training
 
 # Step 5: Use the model to predict outcomes in the 2023 CSV file
 next_games = pd.read_csv('data_2023.csv')
@@ -71,4 +91,3 @@ prob_table.reset_index(drop=True, inplace=True)
 
 # Print the probability table
 print(prob_table)
-
