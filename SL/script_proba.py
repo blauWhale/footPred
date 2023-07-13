@@ -5,49 +5,6 @@ import numpy as np
 import xgboost as xgb
 import requests
 
-
-# Make the API call to fetch the fixtures data
-url = "https://api-football.com/v3/fixtures"
-params = {
-    "league": "207",  # Premier League
-    "season": "2022"
-    # Add any other parameters you may need
-}
-headers = {
-	"X-RapidAPI-Key": "df439bb8dfmsh328a99e24f9725ep1c783ajsn5976979dfa31",
-	"X-RapidAPI-Host": "api-football-v1.p.rapidapi.com"
-}
-response = requests.get(url, params=params, headers=headers)
-data = response.json()
-
-# Extract the fixture data and preprocess it
-fixtures = data["response"]
-fixture_list = []
-for fixture in fixtures:
-    fixture_dict = {
-        "Heim": fixture["teams"]["home"]["name"],
-        "Auswärts": fixture["teams"]["away"]["name"],
-        "Ergebnis": f"{fixture['goals']['home']}–{fixture['goals']['away']}",
-        "Schiedsrichter": fixture["referee"],
-        "Datum": fixture["date"]
-    }
-    fixture_list.append(fixture_dict)
-
-df = pd.DataFrame(fixture_list)
-
-# Preprocess the data
-df['Ergebnis'] = df['Ergebnis'].apply(lambda x: [int(i) for i in x.split('–')])
-df['Heimgewinn'] = df['Ergebnis'].apply(lambda x: int(x[0] > x[1]))
-df['Auswärtsgewinn'] = df['Ergebnis'].apply(lambda x: int(x[0] < x[1]))
-df['Unentschieden'] = df['Ergebnis'].apply(lambda x: int(x[0] == x[1]))
-df['Heim'] = df['Heim'].astype('category')
-df['Auswärts'] = df['Auswärts'].astype('category')
-
-# Save the data to the data.csv file
-df.to_csv('data.csv', index=False)
-
-
-
 # Step 3: Split the data into training and testing sets
 X = pd.get_dummies(df[['Heim', 'Auswärts']])
 y = df[['Heimgewinn', 'Auswärtsgewinn', 'Unentschieden']]
