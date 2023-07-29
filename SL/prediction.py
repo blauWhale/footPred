@@ -4,45 +4,53 @@ from sklearn.model_selection import train_test_split
 import numpy as np
 import xgboost as xgb
 
-# Load the result data from 2020-2022 CSV files
+# Load the result data from 2020-2022 CSV files and add a 'Year' column to each dataframe
 df_2020 = pd.read_csv('data_2020.csv')
+df_2020['Year'] = 2020
+
 df_2021 = pd.read_csv('data_2021.csv')
+df_2021['Year'] = 2021
+
 df_2022 = pd.read_csv('data_2022.csv')
+df_2022['Year'] = 2022
+
+# Load the additional data from 2023 CSV file and drop rows without "Ergebnis" value
+df_2023 = pd.read_csv('data_2023.csv').dropna(subset=['Ergebnis'])
+df_2023['Year'] = 2023
+
+# Combine the datasets with weights
+weight_2020 = 0.1
+weight_2021 = 0.2
+weight_2022 = 0.5
+weight_2023 = 1.0
+
+
+
+df_2020['Weight'] = weight_2020
+df_2021['Weight'] = weight_2021
+df_2022['Weight'] = weight_2022
+df_2023['Weight'] = weight_2023
 
 # Combine the datasets
-df = pd.concat([df_2020, df_2021, df_2022], ignore_index=True)
+df = pd.concat([df_2020, df_2021, df_2022,df_2023], ignore_index=True)
+
 
 # Step 3: Split the data into training and testing sets
 X = pd.get_dummies(df[['Heim', 'Auswärts']])
 y = df[['Heimgewinn', 'Auswärtsgewinn', 'Unentschieden']]
 
-# Create a weight column to assign higher weights to predictions involving Yverdon Sport and Lausanne Ouchy
-weights = pd.Series(1.0, index=df.index)  # Default weight of 1
-weights[df['Heim'] == 'Yverdon Sport'] = 0.5  # Assign lower weight to Yverdon Sport predictions
-weights[df['Auswärts'] == 'Yverdon Sport'] = 0.5
-weights[df['Heim'] == 'Stade Lausanne-Ouchy'] = 0.5  # Assign lower weight to Lausanne Ouchy predictions
-weights[df['Auswärts'] == 'Stade Lausanne-Ouchy'] = 0.5
+# Split the data into training and testing sets
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
-
-# Split the weighted data into training and testing sets
-X_train, X_test, y_train, y_test, weights_train, _ = train_test_split(X, y, weights, test_size=0.2, random_state=42)
-
-# Convert weights to a NumPy array
-weights_train = weights_train.values
-weights_train = np.maximum(weights_train, 0.0)
-
-
-# Assign weights based on recency
-weights *= pd.to_datetime(df['Datum']).dt.year.map({2020: 0.6, 2021: 0.8, 2022: 1.0})
-
-
+# Set the sample weights only for the training set
+sample_weights_train = df.loc[X_train.index, 'Weight']
 
 # Step 4: Train a machine learning model
 clf = xgb.XGBClassifier(random_state=42)
-clf.fit(X_train, y_train, sample_weight=weights_train)  # Pass the sample weights during training
+clf.fit(X_train, y_train, sample_weight=sample_weights_train)
 
 # Step 5: Use the model to predict outcomes in the 2023 CSV file
-next_games = pd.read_csv('data_2023.csv')
+next_games = pd.read_csv('data_NextGames.csv')
 next_games['Heim'] = next_games['Heim'].astype('category')
 next_games['Auswärts'] = next_games['Auswärts'].astype('category')
 
@@ -65,6 +73,23 @@ next_games.to_csv('predictions_2023.csv', index=False)
 # Load the predictions CSV file for 2023 matches
 predictions = pd.read_csv('predictions_2023.csv')
 
+# Function to reformat team names to the desired format (e.g., 'Young Boys' -> 'Young Boys vs FC Winterthur')
+def format_team_name(row):
+    return f"{row['Heim']} vs {row['Auswärts']}"
+
+# Apply the function to create a new 'Spiel' column
+predictions['Spiel'] = predictions.apply(format_team_name, axis=1)
+
+# Rearrange the columns
+predictions = predictions[['Spiel', 'Heimgewinn Chance', 'Unentschieden Chance', 'Auswärtsgewinn Chance']]
+
+# Rename the columns
+predictions.columns = ['Spiel', 'Heimgewinn Chance', 'Unentschieden Chance', 'Auswärtsgewinn Chance']
+
+# Save the DataFrame to a CSV file with the desired format
+predictions.to_csv('predictions_2023_formatted.csv', index=False)
+
+'''
 # Calculate average points per game
 teams = predictions['Heim'].unique()
 avg_points_per_game = []
@@ -91,3 +116,4 @@ prob_table.reset_index(drop=True, inplace=True)
 
 # Print the probability table
 print(prob_table)
+'''
