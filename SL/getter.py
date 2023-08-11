@@ -39,6 +39,8 @@ df_2023['Heim'] = df_2023['Heim'].astype('category')
 df_2023['Auswärts'] = df_2023['Auswärts'].astype('category')
 df_2023.to_csv('data_2023.csv', index=False)
 
+
+'''
 # Get data for 2022 season
 fixture_list_2022 = get_fixtures_data("207", "2022")
 df_2022 = pd.DataFrame(fixture_list_2022)
@@ -71,3 +73,4 @@ df_2020['Unentschieden'] = df_2020['Ergebnis'].apply(lambda x: int(x[0] == x[1])
 df_2020['Heim'] = df_2020['Heim'].astype('category')
 df_2020['Auswärts'] = df_2020['Auswärts'].astype('category')
 df_2020.to_csv('data_2020.csv', index=False)
+'''
