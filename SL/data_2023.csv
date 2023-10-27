@@ -47,18 +47,18 @@ Servette FC,FC Winterthur,"[2, 2]",2023-09-27 18:30:00,0.0,0.0,1.0
 FC ST. Gallen,BSC Young Boys,"[2, 1]",2023-09-27 18:30:00,1.0,0.0,0.0
 FC Basel 1893,FC Luzern,"[1, 1]",2023-09-28 18:30:00,0.0,0.0,1.0
 Stade Lausanne-Ouchy,Yverdon Sport,"[1, 1]",2023-09-28 18:30:00,0.0,0.0,1.0
-Servette FC,Lausanne,,2023-09-30 16:00:00,,,
-FC Winterthur,FC Lugano,,2023-09-30 16:00:00,,,
-Grasshoppers,BSC Young Boys,,2023-09-30 18:30:00,,,
-Yverdon Sport,FC ST. Gallen,,2023-10-01 12:15:00,,,
-FC Basel 1893,Stade Lausanne-Ouchy,,2023-10-01 14:30:00,,,
-FC Luzern,FC Zurich,,2023-10-01 14:30:00,,,
-Yverdon Sport,Grasshoppers,,2023-10-07 16:00:00,,,
-FC Zurich,FC Winterthur,,2023-10-07 16:00:00,,,
-FC ST. Gallen,Stade Lausanne-Ouchy,,2023-10-07 18:30:00,,,
-FC Lugano,Servette FC,,2023-10-08 12:15:00,,,
-Lausanne,FC Luzern,,2023-10-08 14:30:00,,,
-BSC Young Boys,FC Basel 1893,,2023-10-08 14:30:00,,,
+Servette FC,Lausanne,"[2, 1]",2023-09-30 16:00:00,1.0,0.0,0.0
+FC Winterthur,FC Lugano,"[2, 3]",2023-09-30 16:00:00,0.0,1.0,0.0
+Grasshoppers,BSC Young Boys,"[0, 1]",2023-09-30 18:30:00,0.0,1.0,0.0
+Yverdon Sport,FC ST. Gallen,"[1, 0]",2023-10-01 12:15:00,1.0,0.0,0.0
+FC Basel 1893,Stade Lausanne-Ouchy,"[0, 3]",2023-10-01 14:30:00,0.0,1.0,0.0
+FC Luzern,FC Zurich,"[1, 4]",2023-10-01 14:30:00,0.0,1.0,0.0
+Yverdon Sport,Grasshoppers,"[0, 3]",2023-10-07 16:00:00,0.0,1.0,0.0
+FC Zurich,FC Winterthur,"[3, 2]",2023-10-07 16:00:00,1.0,0.0,0.0
+FC ST. Gallen,Stade Lausanne-Ouchy,"[4, 0]",2023-10-07 18:30:00,1.0,0.0,0.0
+FC Lugano,Servette FC,"[0, 1]",2023-10-08 12:15:00,0.0,1.0,0.0
+Lausanne,FC Luzern,"[3, 1]",2023-10-08 14:30:00,1.0,0.0,0.0
+BSC Young Boys,FC Basel 1893,"[3, 0]",2023-10-08 14:30:00,1.0,0.0,0.0
 Stade Lausanne-Ouchy,Lausanne,,2023-10-21 16:00:00,,,
 BSC Young Boys,FC Zurich,,2023-10-21 16:00:00,,,
 FC Basel 1893,Servette FC,,2023-10-21 18:30:00,,,
