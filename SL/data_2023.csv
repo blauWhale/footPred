@@ -93,7 +93,7 @@ Grasshoppers,Lausanne,"[5, 0]",2023-12-02 17:00:00,1.0,0.0,0.0
 FC Lugano,FC Luzern,"[1, 0]",2023-12-03 15:30:00,1.0,0.0,0.0
 FC ST. Gallen,Yverdon Sport,"[4, 0]",2023-12-06 17:30:00,1.0,0.0,0.0
 Stade Lausanne-Ouchy,FC Basel 1893,"[1, 1]",2023-12-02 17:00:00,0.0,0.0,1.0
-FC Winterthur,FC Zurich,,2023-12-13 19:30:00,,,
+FC Winterthur,FC Zurich,"[2, 1]",2023-12-13 19:30:00,1.0,0.0,0.0
 BSC Young Boys,Servette FC,"[1, 1]",2023-12-03 15:30:00,0.0,0.0,1.0
 FC Basel 1893,Grasshoppers,"[0, 1]",2023-12-09 17:00:00,0.0,1.0,0.0
 Lausanne,Servette FC,"[1, 1]",2023-12-09 19:30:00,0.0,0.0,1.0
@@ -101,33 +101,99 @@ FC Lugano,FC Winterthur,"[2, 1]",2023-12-10 13:15:00,1.0,0.0,0.0
 BSC Young Boys,FC ST. Gallen,"[3, 0]",2023-12-09 17:00:00,1.0,0.0,0.0
 Yverdon Sport,Stade Lausanne-Ouchy,"[2, 1]",2023-12-10 15:30:00,1.0,0.0,0.0
 FC Zurich,FC Luzern,"[1, 1]",2023-12-10 15:30:00,0.0,0.0,1.0
-Grasshoppers,Yverdon Sport,,2023-12-16 19:30:00,,,
-FC Luzern,FC Basel 1893,,2023-12-17 15:30:00,,,
-Servette FC,FC Lugano,,2023-12-17 15:30:00,,,
-FC ST. Gallen,FC Zurich,,2023-12-16 17:00:00,,,
-Stade Lausanne-Ouchy,BSC Young Boys,,2023-12-16 17:00:00,,,
-FC Winterthur,Lausanne,,2023-12-17 13:15:00,,,
-Lausanne,FC ST. Gallen,,2024-01-20 19:30:00,,,
-FC Lugano,Stade Lausanne-Ouchy,,2024-01-21 15:30:00,,,
-FC Winterthur,Servette FC,,2024-01-20 17:00:00,,,
-BSC Young Boys,Grasshoppers,,2024-01-20 17:00:00,,,
-Yverdon Sport,FC Luzern,,2024-01-21 13:15:00,,,
-FC Zurich,FC Basel 1893,,2024-01-21 15:30:00,,,
-FC Basel 1893,BSC Young Boys,,2024-01-27 19:30:00,,,
-Grasshoppers,FC Zurich,,2024-01-28 15:30:00,,,
-FC Luzern,Lausanne,,2024-01-28 15:30:00,,,
-Servette FC,Yverdon Sport,,2024-01-27 17:00:00,,,
-FC ST. Gallen,FC Lugano,,2024-01-28 13:15:00,,,
-Stade Lausanne-Ouchy,FC Winterthur,,2024-01-27 17:00:00,,,
-FC Lugano,Grasshoppers,,2024-01-31 19:30:00,,,
-FC ST. Gallen,Servette FC,,2024-01-31 19:30:00,,,
-Stade Lausanne-Ouchy,FC Luzern,,2024-02-01 19:30:00,,,
-FC Winterthur,FC Basel 1893,,2024-01-30 19:30:00,,,
-BSC Young Boys,Yverdon Sport,,2024-01-30 19:30:00,,,
-FC Zurich,Lausanne,,2024-01-31 19:30:00,,,
-FC Basel 1893,FC Lugano,,2024-02-03 19:30:00,,,
-Grasshoppers,FC Winterthur,,2024-02-03 17:00:00,,,
-Lausanne,BSC Young Boys,,2024-02-03 17:00:00,,,
-FC Luzern,FC ST. Gallen,,2024-02-04 15:30:00,,,
-Servette FC,Stade Lausanne-Ouchy,,2024-02-04 15:30:00,,,
-Yverdon Sport,FC Zurich,,2024-02-04 13:15:00,,,
+Grasshoppers,Yverdon Sport,"[1, 1]",2023-12-16 19:30:00,0.0,0.0,1.0
+FC Luzern,FC Basel 1893,"[0, 1]",2023-12-17 15:30:00,0.0,1.0,0.0
+Servette FC,FC Lugano,"[2, 2]",2023-12-17 15:30:00,0.0,0.0,1.0
+FC ST. Gallen,FC Zurich,"[1, 0]",2023-12-16 17:00:00,1.0,0.0,0.0
+Stade Lausanne-Ouchy,BSC Young Boys,"[1, 3]",2023-12-16 17:00:00,0.0,1.0,0.0
+FC Winterthur,Lausanne,"[1, 0]",2023-12-17 13:15:00,1.0,0.0,0.0
+Lausanne,FC ST. Gallen,"[0, 1]",2024-01-20 19:30:00,0.0,1.0,0.0
+FC Lugano,Stade Lausanne-Ouchy,"[2, 3]",2024-01-21 15:30:00,0.0,1.0,0.0
+FC Winterthur,Servette FC,"[3, 3]",2024-01-23 18:00:00,0.0,0.0,1.0
+BSC Young Boys,Grasshoppers,"[1, 0]",2024-01-20 17:00:00,1.0,0.0,0.0
+Yverdon Sport,FC Luzern,"[2, 1]",2024-01-23 18:00:00,1.0,0.0,0.0
+FC Zurich,FC Basel 1893,"[0, 0]",2024-01-21 15:30:00,0.0,0.0,1.0
+FC Basel 1893,BSC Young Boys,"[1, 0]",2024-01-27 19:30:00,1.0,0.0,0.0
+Grasshoppers,FC Zurich,"[2, 1]",2024-01-28 15:30:00,1.0,0.0,0.0
+FC Luzern,Lausanne,"[2, 1]",2024-01-28 15:30:00,1.0,0.0,0.0
+Servette FC,Yverdon Sport,"[1, 0]",2024-01-27 17:00:00,1.0,0.0,0.0
+FC ST. Gallen,FC Lugano,"[1, 4]",2024-01-28 13:15:00,0.0,1.0,0.0
+Stade Lausanne-Ouchy,FC Winterthur,"[1, 3]",2024-01-27 17:00:00,0.0,1.0,0.0
+FC Lugano,Grasshoppers,"[0, 0]",2024-01-31 19:30:00,0.0,0.0,1.0
+FC ST. Gallen,Servette FC,"[0, 2]",2024-01-31 19:30:00,0.0,1.0,0.0
+Stade Lausanne-Ouchy,FC Luzern,"[0, 3]",2024-02-01 19:30:00,0.0,1.0,0.0
+FC Winterthur,FC Basel 1893,"[1, 3]",2024-01-30 19:30:00,0.0,1.0,0.0
+BSC Young Boys,Yverdon Sport,"[5, 1]",2024-01-30 19:30:00,1.0,0.0,0.0
+FC Zurich,Lausanne,"[2, 2]",2024-01-31 19:30:00,0.0,0.0,1.0
+FC Basel 1893,FC Lugano,"[0, 1]",2024-02-03 19:30:00,0.0,1.0,0.0
+Grasshoppers,FC Winterthur,"[0, 1]",2024-02-03 17:00:00,0.0,1.0,0.0
+Lausanne,BSC Young Boys,"[0, 1]",2024-02-03 17:00:00,0.0,1.0,0.0
+FC Luzern,FC ST. Gallen,"[1, 0]",2024-02-04 15:30:00,1.0,0.0,0.0
+Servette FC,Stade Lausanne-Ouchy,"[3, 1]",2024-02-04 15:30:00,1.0,0.0,0.0
+Yverdon Sport,FC Zurich,"[3, 0]",2024-02-04 13:15:00,1.0,0.0,0.0
+Stade Lausanne-Ouchy,Lausanne,"[1, 1]",2024-02-10 17:00:00,0.0,0.0,1.0
+FC Zurich,Grasshoppers,"[1, 0]",2024-02-10 17:00:00,1.0,0.0,0.0
+FC Lugano,BSC Young Boys,"[3, 3]",2024-02-10 19:30:00,0.0,0.0,1.0
+FC Winterthur,FC Luzern,"[2, 1]",2024-02-11 13:15:00,1.0,0.0,0.0
+FC Basel 1893,FC ST. Gallen,"[1, 0]",2024-02-11 15:30:00,1.0,0.0,0.0
+Yverdon Sport,Servette FC,"[2, 1]",2024-02-11 15:30:00,1.0,0.0,0.0
+Lausanne,Yverdon Sport,"[3, 1]",2024-02-17 17:00:00,1.0,0.0,0.0
+FC ST. Gallen,FC Winterthur,"[2, 2]",2024-02-17 17:00:00,0.0,0.0,1.0
+Grasshoppers,FC Basel 1893,"[2, 1]",2024-02-17 19:30:00,1.0,0.0,0.0
+BSC Young Boys,Stade Lausanne-Ouchy,"[1, 0]",2024-02-18 13:15:00,1.0,0.0,0.0
+FC Luzern,FC Zurich,"[0, 1]",2024-02-18 15:30:00,0.0,1.0,0.0
+Servette FC,FC Lugano,"[2, 1]",2024-02-18 15:30:00,1.0,0.0,0.0
+FC ST. Gallen,Stade Lausanne-Ouchy,"[1, 0]",2024-02-24 17:00:00,1.0,0.0,0.0
+Yverdon Sport,FC Basel 1893,"[0, 2]",2024-02-24 17:00:00,0.0,1.0,0.0
+Grasshoppers,FC Luzern,"[0, 1]",2024-02-24 19:30:00,0.0,1.0,0.0
+FC Lugano,FC Zurich,"[2, 0]",2024-02-25 13:15:00,1.0,0.0,0.0
+Lausanne,FC Winterthur,"[1, 1]",2024-02-25 15:30:00,0.0,0.0,1.0
+BSC Young Boys,Servette FC,"[0, 1]",2024-02-25 15:30:00,0.0,1.0,0.0
+Servette FC,FC ST. Gallen,"[2, 0]",2024-03-02 17:00:00,1.0,0.0,0.0
+Stade Lausanne-Ouchy,Grasshoppers,"[1, 1]",2024-03-02 17:00:00,0.0,0.0,1.0
+FC Basel 1893,Lausanne,"[1, 2]",2024-03-02 19:30:00,0.0,1.0,0.0
+FC Luzern,FC Lugano,"[0, 1]",2024-03-03 13:15:00,0.0,1.0,0.0
+FC Winterthur,Yverdon Sport,"[2, 1]",2024-03-03 15:30:00,1.0,0.0,0.0
+FC Zurich,BSC Young Boys,"[1, 0]",2024-03-03 15:30:00,1.0,0.0,0.0
+FC Winterthur,Grasshoppers,"[2, 0]",2024-03-09 17:00:00,1.0,0.0,0.0
+Yverdon Sport,FC Zurich,"[3, 2]",2024-03-09 17:00:00,1.0,0.0,0.0
+FC ST. Gallen,FC Lugano,"[2, 3]",2024-03-09 19:30:00,0.0,1.0,0.0
+Servette FC,Lausanne,"[3, 1]",2024-03-10 13:15:00,1.0,0.0,0.0
+Stade Lausanne-Ouchy,FC Luzern,"[2, 1]",2024-03-10 15:30:00,1.0,0.0,0.0
+BSC Young Boys,FC Basel 1893,"[5, 1]",2024-03-10 15:30:00,1.0,0.0,0.0
+FC Basel 1893,FC Winterthur,,2024-03-16 17:00:00,,,
+Grasshoppers,FC ST. Gallen,,2024-03-16 17:00:00,,,
+FC Lugano,Yverdon Sport,,2024-03-16 19:30:00,,,
+FC Zurich,Stade Lausanne-Ouchy,,2024-03-17 13:15:00,,,
+Lausanne,BSC Young Boys,,2024-03-17 15:30:00,,,
+FC Luzern,Servette FC,,2024-03-17 15:30:00,,,
+Stade Lausanne-Ouchy,FC Lugano,,2024-03-30 16:00:00,,,
+FC Winterthur,Servette FC,,2024-03-30 16:00:00,,,
+FC Basel 1893,FC Zurich,,2024-03-30 18:30:00,,,
+Yverdon Sport,BSC Young Boys,,2024-04-01 12:15:00,,,
+Grasshoppers,Lausanne,,2024-04-01 14:30:00,,,
+FC ST. Gallen,FC Luzern,,2024-04-01 14:30:00,,,
+FC Lugano,FC Basel 1893,,2024-04-02 18:30:00,,,
+Servette FC,Stade Lausanne-Ouchy,,2024-04-03 18:30:00,,,
+FC Zurich,FC Winterthur,,2024-04-03 18:30:00,,,
+Lausanne,FC ST. Gallen,,2024-04-04 18:30:00,,,
+FC Luzern,Yverdon Sport,,2024-04-04 18:30:00,,,
+BSC Young Boys,Grasshoppers,,2024-04-04 18:30:00,,,
+Stade Lausanne-Ouchy,FC Basel 1893,,2024-04-06 16:00:00,,,
+FC Winterthur,FC Lugano,,2024-04-06 16:00:00,,,
+Servette FC,FC Zurich,,2024-04-06 18:30:00,,,
+FC Luzern,Lausanne,,2024-04-07 12:15:00,,,
+FC ST. Gallen,BSC Young Boys,,2024-04-07 14:30:00,,,
+Yverdon Sport,Grasshoppers,,2024-04-07 14:30:00,,,
+Grasshoppers,FC Lugano,,2024-04-13 16:00:00,,,
+Lausanne,FC Zurich,,2024-04-13 16:00:00,,,
+FC ST. Gallen,Yverdon Sport,,2024-04-13 18:30:00,,,
+FC Basel 1893,Servette FC,,2024-04-14 12:15:00,,,
+Stade Lausanne-Ouchy,FC Winterthur,,2024-04-14 14:30:00,,,
+BSC Young Boys,FC Luzern,,2024-04-14 14:30:00,,,
+FC Lugano,Lausanne,,2024-04-21 14:30:00,,,
+FC Luzern,FC Basel 1893,,2024-04-21 14:30:00,,,
+Servette FC,Grasshoppers,,2024-04-21 14:30:00,,,
+FC Winterthur,BSC Young Boys,,2024-04-21 14:30:00,,,
+Yverdon Sport,Stade Lausanne-Ouchy,,2024-04-21 14:30:00,,,
+FC Zurich,FC ST. Gallen,,2024-04-21 14:30:00,,,
